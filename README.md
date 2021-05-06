@@ -7,7 +7,7 @@ Fathom Mk-2 the successor to the original Fathom-Chan movie bot.
   * Reminders for all movie events the day before they air
   * Command for displaying movie 
 
-### What Changed and Why Rewrite? ===
+### What Changed and Why Rewrite?
   * Rewritten in Node.js to take advantage of the discord.js package and NPM init
   * Addressees issues with the bot such as lack of autonomy for task such as reminding
   * Hosted using Google Cloud Platform so the bot can be other other bots in a single VM instance vs original one bot per Heroku app
